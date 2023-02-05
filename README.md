@@ -3,7 +3,7 @@
 This software is intended for the user to log enties from a journal, or make comments. Instead of writing it down on paper it is more fun to type it out.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_Vlg1ILiZF8)
 
 # Development Environment
 
